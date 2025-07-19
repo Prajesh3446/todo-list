@@ -27,7 +27,7 @@ A simple and responsive To-Do List application built using *HTML, **CSS, and **J
 - Add due dates and reminders
 - Add dark mode toggle
 
- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+ 💼 [LinkedIn](www.linkedin.com/in/prajesh3446)
 - 📧 prajeshk557@gmail.com
 - 💻 [GitHub](https://github.com/Prajesh3446)
 
