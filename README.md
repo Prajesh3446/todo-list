@@ -15,7 +15,7 @@ A simple and responsive To-Do List application built using *HTML, **CSS, and **J
 - *HTML5*
 - *CSS3*
 - *JavaScript (Vanilla)*
-- 
+
 - ## 🧠 What I Learned
 - DOM manipulation using JavaScript
 - Event handling
